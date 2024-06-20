@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="moret.dat">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/exe/moret.dat.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
